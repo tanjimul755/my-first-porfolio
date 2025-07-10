@@ -263,9 +263,13 @@ nav ul li, a{
     margin-bottom: 30px;
 }
 .col-item h5 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #757575;
     margin-bottom: 10px;
+    
 }
-.col-item h3 {
+.col-item :nth-child(2) {
     font-size: 25px;
     font-weight: 600;
     color: #474747;
