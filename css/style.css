@@ -237,7 +237,7 @@ nav ul li, a{
 }
 
 .summery {
-    height: 1204px;
+    height: 1300px;
     padding-bottom: 113px;
     display: flex;
     flex-direction: column;
@@ -278,4 +278,34 @@ nav ul li, a{
 
 .summery a {
     margin-top: 50px;
+}
+
+footer {
+    background-color: #FFF8F3;
+    height: 780px;
+    width: 100%;
+    padding: 130px 230px 130px 230px;
+    display: flex;
+    justify-content: center;
+    gap: 117px;
+}
+
+.footer-content {
+    width: 562px;
+}
+.footer-content p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #474747;
+    margin: 20px 0 30px 0;
+}
+
+footer form input, textarea {
+    display: block;
+    width: 461px;
+    padding: 20px;
+    border: none;
+    margin: 24px 0 24px 0;
+    font-family: "Open Sans", sans-serif;
+    resize: none;
 }
