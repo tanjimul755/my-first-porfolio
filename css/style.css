@@ -14,7 +14,7 @@
 
 .header {
     height: 793px;
-    background-image: url('/images/developer.png');
+    background-image: url('./images/developer.png');
     background-repeat: no-repeat;
     margin: 38px 0 0 23px;
     background-position: top left;
